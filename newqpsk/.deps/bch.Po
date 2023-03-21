@@ -1,0 +1,5 @@
+bch.o: bch.c /usr/include/stdc-predef.h bch.h
+
+/usr/include/stdc-predef.h:
+
+bch.h:

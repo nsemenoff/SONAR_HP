@@ -1,0 +1,14 @@
+fec.o: fec.c /usr/include/stdc-predef.h modemconfig.h fec.h fectable.h \
+ bch.h misc.h
+
+/usr/include/stdc-predef.h:
+
+modemconfig.h:
+
+fec.h:
+
+fectable.h:
+
+bch.h:
+
+misc.h:
